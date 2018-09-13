@@ -1,1 +1,2 @@
-This is the musical app written on Swift
+#Xylophone
+Musical app: xylophone simulator.
